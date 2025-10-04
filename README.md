@@ -1,4 +1,4 @@
-# study-active-ragdoll
+# study_active_ragdoll
 
 ## Settings
 
